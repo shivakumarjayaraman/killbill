@@ -1,4 +1,4 @@
-## A Clone of the Kill Bill - Open-Source Subscription Billing & Payments Platform version 0.24.2
+## Clone of the Kill Bill - Open-Source Subscription Billing & Payments Platform version 0.24.2
 
 <p align="center">
   <img alt="Kill Bill, the Open-Source Subscription Billing & Payments Platform, duck logo" src="https://github.com/killbill/killbill-docs/raw/v3/userguide/assets/img/logo.png" alt="Kill Bill logo" style="max-width:100%;">
